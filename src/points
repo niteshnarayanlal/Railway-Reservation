@@ -1,0 +1,4 @@
+only admin can enter new values for trains
+regex over-train number ,cost,admin
+phone number ,age
+pnr -number or not whether in database or not
